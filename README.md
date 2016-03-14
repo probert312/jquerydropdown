@@ -11,7 +11,7 @@ $(document).ready(function() {
 when page is loaded (see main.js for example) where "city" is the input box id where you can search and "city_list" is id of div that contains an ul list with entire list to search.
 
 <b>Styling:</b><br/>
-You can change this using any width you want or select box icon. For select icon, you just need to change the image "arrow-d.png". 
+You can change styling as you want and is very somple. To change select icon, you just need to change the image "arrow-d.png". 
 <pre>
 #city
 {
@@ -27,3 +27,5 @@ Features:
 - tested in Internet Explorer 11, Firefox and Chrome;
 - searching in select box without losing normal functionality of a select box;
 - keep entire list of elements after clicking in input to search again;
+- no other requests to the server after page load;
+- tested with up then 1000 elements;
