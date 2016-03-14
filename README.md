@@ -1,7 +1,7 @@
 # jquerydropdown
 Simple jQuery custom select box with search inside the given list.
 
-Usage:
+<b>Usage:</b><br/>
 You just need to include in your HTML jQuery.js and main.js file that contains the function and call the method:
 <pre>
 $(document).ready(function() {
@@ -10,7 +10,7 @@ $(document).ready(function() {
 </pre>
 when page is loaded (see main.js for example) where city is the input box id where you can search and city_list is div that contains an ul list with entire list to search.
 
-Styling:
+<b>Styling:</b><br/>
 You can change this using any width you want or select box icon. For select icon, you just need to change the image "arrow-d.png". 
 <pre>
 #city
