@@ -8,7 +8,7 @@ $(document).ready(function() {
   searchDropDown("city", "city_list");
 });
 </pre>
-when page is loaded (see main.js for example) where city is the input box id where you can search and city_list is div that contains an ul list with entire list to search.
+when page is loaded (see main.js for example) where "city" is the input box id where you can search and "city_list" is id of div that contains an ul list with entire list to search.
 
 <b>Styling:</b><br/>
 You can change this using any width you want or select box icon. For select icon, you just need to change the image "arrow-d.png". 
