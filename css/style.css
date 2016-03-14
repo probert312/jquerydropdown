@@ -1,0 +1,19 @@
+#city
+{
+  width:80%;
+}
+#city_list
+{
+  display: none;
+  width:80%;
+  max-height: 100px;
+  overflow-y: auto;
+  border: 1px solid #cacaca;
+}
+
+#city_list li:hover
+{
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+}
