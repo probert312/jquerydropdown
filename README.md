@@ -1,4 +1,4 @@
-# jquerydropdown
+# jquery dropdown with search
 Simple jQuery custom select box with search inside the given list.
 
 <b>Usage:</b><br/>
